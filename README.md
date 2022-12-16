@@ -3,4 +3,4 @@ This is an test assignment for CRUD Operations on a Todo List using FastAPI and 
 <br />
 <br />
 <br />
-Run the app by using command "uvicorn main:app --reload" (Note install the requirements.txt modules for running the app)
+Run the app by using command "uvicorn main:app --reload" (Note: Install the requirements.txt modules for running the app)
